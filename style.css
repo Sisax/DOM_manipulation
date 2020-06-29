@@ -1,0 +1,26 @@
+h1 {
+  font-size: 36px;
+  color: darkorange;
+  padding: 0px;
+  margin: 10px 0px 10px 0px;
+}
+
+h2 {
+  font-size: 24px;
+  color: purple;
+  margin: 10px 0px 10px 0px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  text-decoration: underline;
+  list-style-type: upper-roman;
+}
+
+ol .pink {
+  color: magenta;
+  text-decoration: magenta underline;
+}
